@@ -52,3 +52,6 @@ What you should learn from this project:
 
 ### [6. Coordinates of a square](./6-square.py)
 * Write a class Square that defines a square by: (based on 5-square.py)
+
+
+* **Dagim Tezera** - [Dagim Tezera](https://github.com/dagim93)
